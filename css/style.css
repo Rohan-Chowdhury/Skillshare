@@ -184,7 +184,8 @@ footer ol, ul {
 .btn {
     font-size: 17px !important
 }
-.btn:hover {
-    background: #00ff84 !important
-
+.btn1:hover {
+background: #00ff84 !important;
+    color: #000 !important;
+    border-color: #0000004f !important;
 }
